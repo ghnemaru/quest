@@ -1,51 +1,7 @@
 {
-  "range": "'スポットデータ'!A1:J84",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "タイムスタンプ",
-      "カテゴリ",
-      "画像",
-      "緯度",
-      "経度",
-      "スポット名",
-      "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト"
-    ],
-    [
-      "2022/05/11 14:46:34",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.730091",
-      "139.73754",
-      "株式会社Geolonia",
-      "株式会社Geoloniaの東京オフィスです",
-      "",
-      "geoloniamap",
-      "https://geolonia.com"
-    ],
-    [
-      "",
-      "てす",
-      "",
-      "36.389193",
-      "139.276637",
-      "tes",
-      "tesss"
-    ],
-    [
-      "2022/05/26",
-      "LEVEL1",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "37.542402",
-      "138.810426",
-      "楽山苑",
-      "江戸時代越後屈指の豪商で与板の名家旧大坂屋三輪家の別荘で、庭園、茶室などがあり、簡素な中にもきめ細やかな仕掛けと匠の技が凝らされている。5月中旬のツツジが咲き乱れる時期には、苑内がライトアップされ、ボランティアガイドやお茶のサービス、琴と尺八の演奏などイベントが開催される。",
-      "",
-      "",
-      "https://niigata-kankou.or.jp/spot/5759"
-    ]
-  ]
+  "error": {
+    "code": 503,
+    "message": "The service is currently unavailable.",
+    "status": "UNAVAILABLE"
+  }
 }
